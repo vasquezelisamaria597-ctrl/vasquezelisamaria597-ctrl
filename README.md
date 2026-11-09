@@ -2,6 +2,8 @@
 
 # ¡Hola! Soy Maria 📊
 ### Analista de Datos | Especialista en Power BI, SQL & Python
+Correo: Selivasq29@hotmail.com
+LINKEDIN: https://www.linkedin.com/in/maria-selina-quintanilla-vasquez-543979344/
 
 Transformo datos complejos en tableros interactivos y modelos analíticos para optimizar la toma de decisiones comerciales.
 
